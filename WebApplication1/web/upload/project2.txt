@@ -1,0 +1,3 @@
+this is the project2 file
+username=bb
+password=bb
