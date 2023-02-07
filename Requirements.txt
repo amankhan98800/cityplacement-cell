@@ -1,0 +1,5 @@
+jdk
+mysql essential
+mysql connector
+netbeans
+glassfish server
